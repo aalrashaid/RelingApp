@@ -1,0 +1,20 @@
+{
+  "name": "relingapp",
+  "version": "1.0.0",
+  "description": "RelingApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalrashaid/RelingApp.git"
+  },
+  "keywords": [],
+  "author": "aalrashaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalrashaid/RelingApp/issues"
+  },
+  "homepage": "https://github.com/aalrashaid/RelingApp#readme"
+}
